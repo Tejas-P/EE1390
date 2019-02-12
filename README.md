@@ -1,2 +1,2 @@
 # EE1390
-AI and ML coses
+AI and ML codes
